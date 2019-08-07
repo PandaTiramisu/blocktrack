@@ -1,4 +1,3 @@
-||crashlytics.com^$important
 #Windows
 ||login.live.com^$important
 ||windowsupdate.microsoft.com^
@@ -11,3 +10,5 @@
 
 ||nvidia.com^
 ||umeng.com^
+||app-mesaurement.com^
+||crashlytics.com^$important
