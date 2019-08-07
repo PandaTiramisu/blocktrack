@@ -13,3 +13,12 @@
 ||app-mesaurement.com^
 ||crashlytics.com^
 ||api.growingio.com^
+
+#map
+||api.map.baidu.com^
+||ps.map.baidu.com^
+||sv.map.baidu.com^
+||offnavi.map.baidu.com^
+||newvector.map.baidu.com^
+||ulog.imap.baidu.com^
+||newloc.map.n.shifen.com^
