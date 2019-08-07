@@ -11,4 +11,5 @@
 ||nvidia.com^
 ||umeng.com^
 ||app-mesaurement.com^
-||crashlytics.com^$important
+||crashlytics.com^
+||api.growingio.com^
